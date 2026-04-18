@@ -22,11 +22,9 @@ class Solution {
                 map.put(s.charAt(i),t.charAt(i));
                 result =true;
             }
-            else if(map.containsKey(s.charAt(i))){
-                if(t.charAt(i)==map.get(s.charAt(i))){
-                    result =true;
-                }
-                else {
+
+            else {
+                if(t.charAt(i)!=map.get(s.charAt(i))){
                     return false;
                 }
             }
