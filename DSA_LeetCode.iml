@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ Rotate_String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ Two sum (two pointer)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Armstrong Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bubble Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Check for Prime Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Check_if_the_Array_is_Sorted" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count all Digits of a Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First and last occurrence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GCD of two numbera" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Insertion Short" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Isomorphic_Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/K_Places" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest Odd number in string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest in Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Liner_search_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest_Common_Prefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lower Bound" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum_Nesting_Depth_of_the_Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Merge Sorted Array(two pointer)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Missing_in_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Print all Divisors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove Outermost Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove_Duplicates_in-place" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse String(two pointer)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse Words in String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse a number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Roman_to_Integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rotate_Array_by_One" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Search insert position" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Second_Largest_Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Selection short" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort_Characters_by_Frequency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Upper Bound" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Valid Palindrome (two pointer)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/union_of_two_sorted_arrays" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
