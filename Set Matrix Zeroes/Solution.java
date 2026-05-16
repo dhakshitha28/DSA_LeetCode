@@ -1,4 +1,5 @@
 class Solution {
+
     public void setZeroes(int[][] matrix) {
 
         int col0=1;
@@ -24,6 +25,7 @@ class Solution {
                 }
             }
         }
+
         if(matrix[0][0]==0){
             for(int j=0;j<matrix[0].length;j++){
                 matrix[0][j]=0;
