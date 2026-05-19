@@ -4,10 +4,21 @@ class Solution {
 
         int result=0;
 
-        for(int i=1; i*i<=n ;i++){
-            if(i*i<=n){
-                result=i;
+        int low=1;
+        int high=n;
+
+        while(low <= high){
+
+            int mid=(low + high)/2;
+
+            if(mid*mid <= n){
+                low=mid+1;
+                result=mid;
             }
+            else{
+                high=mid-1;
+            }
+
         }
 
         return result;
