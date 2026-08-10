@@ -4,6 +4,7 @@ class Solution {
 
         for (List<String> path : paths) {
             startCities.add(path.get(0));
+
         }
 
         for (List<String> path : paths) {
